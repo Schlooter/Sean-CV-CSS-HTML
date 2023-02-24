@@ -1,0 +1,110 @@
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+.middle-container {}
+
+
+
+.bottom-container {}
+
+
+
+
+
+body {
+    text-align: center;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+
+
+}
+
+
+
+
+
+h1 {
+    color: #66bfbf;
+    margin: 50px, auto 0 auto;
+    font-family: 'Zeyada', cursive;
+    font-size: 5.62rem
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+
+h3 {
+    color: #11999e;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.img-web-dev {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.img-Euchre {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 50%;
+
+
+}
+
+
+.footer-link {
+    color: #11999e;
+}
+
+.skill-row-web-dev {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.skill-row-Euchre {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
